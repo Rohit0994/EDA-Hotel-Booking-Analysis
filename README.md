@@ -1,4 +1,4 @@
-# EDA-Hotel-Data-Analysis
+# EDA-Hotel-Booking-Analysis
 # Objective 
 We are provided with a hotel bookings dataset.
 
