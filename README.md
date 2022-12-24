@@ -47,11 +47,11 @@ Total number of rows in data: 119390
 Total number of columns: 32
 
 # Know your data
-1.Dataset Information
-2.Duplicate Values
-3.Missing Values/Null Values
-4.Understanding Your Variables
-5.Check Unique Values for each variable.
+1. Dataset Information
+2. Duplicate Values
+3. Missing Values/Null Values
+4. Understanding Your Variables
+5. Check Unique Values for each variable.
 
 # Data wrangling
 1.count that in which year of which month most number of customers arrived at  hotel.
@@ -66,35 +66,35 @@ Did All th manipulation
 
 
 # What main questions was arising :-
-Q1) Which types of customers mostly make bookings?
-Q2) Which room type is in most demand and which room type generatesthe  highest adr?
-Q3) Which distribution channel brings betterrevenue-generatingg deals for hotels?
-Q4) Which significant distribution channel has the highest cancellation percentage?
-Q5) What is the trend of bookings within a month?
-Q6) Which Hotel has Highest booking ratio(comparision)?
-Q7) What is preferred stay length in hotel if we compare with Customer type?
-Q8) In which year most booking has happened for bothe type hotels?
-Q9) From which country most of the guests are coming ?
-Q10) In which month most of the booking happened?
-Q11) Which market segment has booked and canceled the booking?
-Q12) What type of Customer has highest booking as Couples, Single, Group?
-Q13) Which meal type is the most preffered meal of customers?
-Q14) Finding out corelation between Different variables?
-Q15) which has highet ADR?
+1. Which types of customers mostly make bookings?
+2. Which room type is in most demand and which room type generatesthe  highest adr?
+3. Which distribution channel brings betterrevenue-generatingg deals for hotels?
+4. Which significant distribution channel has the highest cancellation percentage?
+5. What is the trend of bookings within a month?
+6. Which Hotel has Highest booking ratio(comparision)?
+7. What is preferred stay length in hotel if we compare with Customer type?
+8. In which year most booking has happened for bothe type hotels?
+9. From which country most of the guests are coming ?
+10. In which month most of the booking happened?
+11. Which market segment has booked and canceled the booking?
+12. What type of Customer has highest booking as Couples, Single, Group?
+13. Which meal type is the most preffered meal of customers?
+14. Finding out corelation between Different variables?
+15. which has highet ADR?
 
  
 
 
 # Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
 
-Bar Plot.
-Histogram.
-Scatter Plot.
-Pie Chart.
-Line Plot.
-Heatmap.
-Box Plot
-Pair plot
+1. Bar Plot
+2. Histogram
+3. Scatter Plot
+4. Pie Chart
+5. Line Plot
+6. Heatmap
+7. Box Plot
+8. Pair plot
 
 # We plot different graph (univariate and bivariate ) to make find out the last conclusion:-
 
@@ -112,7 +112,7 @@ Pair plot
 
 
 # Challenges
-(1) There was a lot of duplicate data.
-(2) Data was present in wrong datatype format.
-(3) Choosing appropriate visualization techniques to use was difficult.
-(4) A lot of null values were there in the dataset.
+1. There was a lot of duplicate data.
+2. Data was present in wrong datatype format.
+3. Choosing appropriate visualization techniques to use was difficult.
+4. A lot of null values were there in the dataset.
