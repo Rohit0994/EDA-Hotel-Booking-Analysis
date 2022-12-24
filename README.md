@@ -54,14 +54,14 @@ Total number of columns: 32
 5. Check Unique Values for each variable.
 
 # Data wrangling
-1.count that in which year of which month most number of customers arrived at  hotel.
-2.Customer type, Room type, room_comparision, Deposit_type, Is_canceled checked.
-3.How many customer have changed their booking.
-4.remove duplicates values
-5.finding uniques values for each variables
-6.Find hotel ratio
-7.Adding a  two new column of total staying days,total people stays
-8.Remove outliers by box plot.
+1. count that in which year of which month most number of customers arrived at  hotel.
+2. Customer type, Room type, room_comparision, Deposit_type, Is_canceled checked.
+3. How many customer have changed their booking.
+4. remove duplicates values
+5. finding uniques values for each variables
+6. Find hotel ratio
+7. Adding a  two new column of total staying days,total people stays
+8. Remove outliers by box plot.
 Did All th manipulation
 
 
